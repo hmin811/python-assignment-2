@@ -1,6 +1,7 @@
 print('직업을 선택하세요.')
 print('1. 입력')
 print('2. 계산')
+
 n = int(input())
 submitcredit = 0
 opencredit = 0
